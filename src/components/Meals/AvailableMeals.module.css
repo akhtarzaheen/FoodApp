@@ -11,6 +11,10 @@
   padding: 0;
 }
 
+.loader {
+  height: 130px;
+}
+
 @keyframes meals-appear {
   from {
     opacity: 0;
